@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/santhoshclement/JavaProj/_apis/build/status/JavaProj-Maven-CI?branchName=master)](https://dev.azure.com/santhoshclement/JavaProj/_build/latest?definitionId=9&branchName=master)
 
 # Contributing
 
